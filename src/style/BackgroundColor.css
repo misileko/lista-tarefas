@@ -1,0 +1,9 @@
+.container-input{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;    
+}
+labrl{
+    padding: 0;
+    margin: 0;
+}

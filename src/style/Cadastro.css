@@ -1,24 +1,14 @@
-.container{
-    width: 100%;
-    background-color: aqua;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    
-}
-
+ .container{
+    padding: 0 0 10px 0;
+ }
 .cadastro{
-    width: 50%;
-    background-color: yellow;
-    padding: 25px 0;
+    align-items: center;
+    justify-content: center;
+    padding: 1px 0 5px 0;
+    font-weight: bold;
+}
+.section{
+    padding: 5px;
 }
 
-.teste{
-    background-color: black;
-    padding: 50px;
-}
 
-.btn{
-    width: 100%;
-}

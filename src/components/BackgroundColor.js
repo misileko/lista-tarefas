@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 import '../style/BackgroundColor.css';
 
 function BackgroundColor(){
@@ -14,22 +14,22 @@ function BackgroundColor(){
          },[color]);
 
   return (
-    <div className='container-radio-button'>
+    <div className='container-input'>
       <input 
       type="radio" 
       name="color" 
       onChange={()=>{handleChangeColor("blueviolet")}}
-      /> <label>Blueviolet</label><br/>
+      /> <label>Blueviolet</label>
       <input 
       type="radio" 
       name="color" 
       onChange={()=>{handleChangeColor("cadetblue")}}
-      /> <label>Cadeblue</label><br/>
+      /> <label>Cadetblue</label>
       <input 
       type="radio" 
       name="color" 
       onChange={()=>{handleChangeColor("cornsilk")}}
-      /> <label>Cornsilk</label><br/>
+      /> <label>Cornsilk</label>
       <input 
       type="radio" 
       name="color" 
