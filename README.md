@@ -1,4 +1,4 @@
-[![Image](https://github.com/user-attachments/assets/2c0c4019-b6ad-4a42-a721-f128e1c70e62)](https://github.com/user-attachments/assets/8057fb45-c09c-4e5d-a29a-735a0b0a042a)
+![Image](https://github.com/user-attachments/assets/c3cb8b6d-6766-4724-ab64-3b6cf5795072)
 
 **Lista de Tarefas**
 
